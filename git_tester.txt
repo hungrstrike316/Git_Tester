@@ -1,2 +1,4 @@
 This file is just a text file that I am making to play around with git.
 This is a second line now...
+what about the mummy? >> git_tester.txt
+
